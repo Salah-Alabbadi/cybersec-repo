@@ -1,1 +1,2 @@
-This is my first GitHub file
+This is my first GitHub file.
+I have added more text to continue working on my project.
